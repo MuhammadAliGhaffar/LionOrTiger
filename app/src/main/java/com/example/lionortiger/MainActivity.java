@@ -105,6 +105,8 @@ public class MainActivity extends AppCompatActivity {
         }
         gameOver=false;
 
+        BtnReset.setVisibility(View.INVISIBLE);
+
     }
 
 }
